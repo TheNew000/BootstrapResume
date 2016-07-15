@@ -1,0 +1,41 @@
+.main-section{
+    background-color: #CB8339;
+}
+
+
+#danny img{
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+}
+
+.profile-container{
+    background-color: #35879A !important;
+}
+
+#name, .tagline{
+    text-align: center;
+    margin: auto;
+}
+
+.contact-container, .education-container, .languages-container, .profile-container {
+    background-color: #42A8C0;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.contact-container, h1, h2, h3. p{
+    text-decoration-color: white;
+}
+
+#experiences{
+    border-bottom: 1px solid black;
+}
+
+#career-profile, #experiences{
+    text-align: center;
+}
+
+.main-section h2, h3{
+    text-align: left;
+}
